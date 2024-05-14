@@ -1,0 +1,22 @@
+/* Stylesheet */
+
+.oddLine{
+    color: #000;
+    background-color: #ffb6c1;
+    font-family: Verdana, 'DejaVu Sans', sans-serif;
+}
+
+.oddLine.thirdLine{
+    font-size: 24px;
+}
+
+#secondLine{
+    color: #00f;
+    font-size: 36px;
+}
+
+#fourthLine{
+    font-size: 24px;
+    font-weight: bold;
+    background-color: #90ee90;
+}
