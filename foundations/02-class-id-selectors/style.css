@@ -1,8 +1,8 @@
 /* Stylesheet */
 
 .oddLine{
-    color: #000;
-    background-color: #ffb6c1;
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 185, 185);
     font-family: Verdana, 'DejaVu Sans', sans-serif;
 }
 
@@ -11,12 +11,12 @@
 }
 
 #secondLine{
-    color: #00f;
+    color: rgb(0, 0, 255);
     font-size: 36px;
 }
 
 #fourthLine{
     font-size: 24px;
     font-weight: bold;
-    background-color: #90ee90;
+    background-color: rgb(171, 240, 171);
 }
